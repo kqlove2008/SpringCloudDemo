@@ -19,7 +19,88 @@ SpringCloudDemo
 			Sping提供微服务各项数据可视化管理控制台
 		</td>
 	</tr>
+	<tr>
+		<td>
+			SpringBoot Admin Server. 
+		</td>
+		<td>
+			Sping提供微服务各项数据可视化管理控制台
+		</td>
+	</tr>
+	<tr>
+		<td>
+			SpringBoot Admin Server. 
+		</td>
+		<td>
+			Sping提供微服务各项数据可视化管理控制台
+		</td>
+	</tr>
+	<tr>
+		<td>
+			SpringBoot Admin Server. 
+		</td>
+		<td>
+			Sping提供微服务各项数据可视化管理控制台
+		</td>
+	</tr>
+	<tr>
+		<td>
+			SpringBoot Admin Server. 
+		</td>
+		<td>
+			Sping提供微服务各项数据可视化管理控制台
+		</td>
+	</tr>
+	<tr>
+		<td>
+			SpringBoot Admin Server. 
+		</td>
+		<td>
+			Sping提供微服务各项数据可视化管理控制台
+		</td>
+	</tr>
+	<tr>
+		<td>
+			SpringBoot Admin Server. 
+		</td>
+		<td>
+			Sping提供微服务各项数据可视化管理控制台
+		</td>
+	</tr>
+	<tr>
+		<td>
+			SpringBoot Admin Server. 
+		</td>
+		<td>
+			Sping提供微服务各项数据可视化管理控制台
+		</td>
+	</tr>
+	<tr>
+		<td>
+			SpringBoot Admin Server. 
+		</td>
+		<td>
+			Sping提供微服务各项数据可视化管理控制台
+		</td>
+	</tr>
+	<tr>
+		<td>
+			SpringBoot Admin Server. 
+		</td>
+		<td>
+			Sping提供微服务各项数据可视化管理控制台
+		</td>
+	</tr>
+	<tr>
+		<td>
+			SpringBoot Admin Server. 
+		</td>
+		<td>
+			Sping提供微服务各项数据可视化管理控制台
+		</td>
+	</tr>
   </table>
+  <img src="./readme-resources/2279594-6b7c148110ebc56e.png" />
   
   
   
