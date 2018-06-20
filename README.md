@@ -100,7 +100,7 @@ SpringCloudDemo
 		</td>
 	</tr>
   </table>
-  <img src="./readme-resources/2279594-6b7c148110ebc56e.png" />
+  ![architecture](/readme-resources/2279594-6b7c148110ebc56e.png)
   
   
   
